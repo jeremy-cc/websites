@@ -2,6 +2,7 @@
 layout: post
 title:  "Cache Benchmark"
 date:   2015-02-08 08:13:20
+author: Richard Nienaber
 categories: cache ruby benchmark
 ---
 
